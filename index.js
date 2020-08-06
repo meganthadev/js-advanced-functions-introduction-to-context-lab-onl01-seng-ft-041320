@@ -1,3 +1,3 @@
 function createEmlpoyeeReccord(empInfo){
-  let 
+  let empRecord = 
 }
