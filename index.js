@@ -4,6 +4,6 @@ function createEmlpoyeeReccord(empInfo){
     familyName: empInfo[1],
     title: empInfo[2],
     payPerHour: empInfo[3]
-    timeInEvents = []
-    timeOutEvents = []  }
+    timeInEvents: []
+    timeOutEvents: []  }
 }
