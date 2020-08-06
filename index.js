@@ -1,1 +1,3 @@
-function createEmlpoyeeReccord(empInfo)
+function createEmlpoyeeReccord(empInfo){
+  
+}
