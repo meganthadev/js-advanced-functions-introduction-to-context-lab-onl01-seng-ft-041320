@@ -1,9 +1,11 @@
-function createEmlpoyeeReccord(empInfo){
+function createEmlpoyeeRecord(empInfo){
   let empRecord = {
     firstName: empInfo[0],
     familyName: empInfo[1],
     title: empInfo[2],
     payPerHour: empInfo[3]
     timeInEvents: []
-    timeOutEvents: []  }
+    timeOutEvents: []  
+  }
+    return empRecord
 }
